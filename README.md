@@ -17,6 +17,5 @@ Prérequis remplis :
 
 >[!CAUTION]
 > Chers étudiants, il est crucial de ne pas copier le code d'autres dépôts. La tricherie est sévèrement punie chez Epitech par le système "moulitriche", pouvant entraîner un -42. <br>
-
 > Il est important de réaliser votre propre travail pour non seulement éviter les sanctions mais aussi pour bénéficier pleinement de l'expérience d'apprentissage. Consultez d'autres travaux pour vous inspirer, mais ne tombez pas dans le piège de la copie. <br>
 > Concentrez-vous sur votre propre développement et compétences ! <br>
